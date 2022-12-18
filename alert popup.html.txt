@@ -1,0 +1,8 @@
+<html>
+   <head>
+     <title><alert</title>
+   </head>
+   <body>
+     <script>alert('Can i allow u')</script>
+   </body>
+ </html>
